@@ -47,7 +47,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
             <uses-permission android:name="android.permission.INTERNET" />
         </config-file>
 
-        <dependency id="cordova-support-android-plugin" url="https://github.com/pieroGit/cordova-support-android-plugin#22f8b99c30d5347d0d56d94c9d6b18e73f98ed41" commit="22f8b99c30d5347d0d56d94c9d6b18e73f98ed41" />
+        <dependency id="cordova-support-android-plugin" url="https://github.com/pieroGit/cordova-support-android-plugin#4168558b01e2e4ebcd377a141b4f362722c06d88" commit="4168558b01e2e4ebcd377a141b4f362722c06d88" />
 
 
         <framework src="com.google.android.gms:play-services-ads-identifier:$ANDROID_PLAY_ADID_VERSION" />
